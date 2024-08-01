@@ -2,7 +2,6 @@
 
 | Séquence|Contenu |Compétence|
 | :---------------- | :---------------- | :---------------- |
-| ----------------- | ----------------- | ----------------- |
 |  S1 : Nombres relatifs 1
 (Addition et soustraction)|1.01 Rappels sur les relatifs
 Vocabulaire, comparaison, distance à zéro
